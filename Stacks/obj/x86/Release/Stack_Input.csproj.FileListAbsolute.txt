@@ -1,0 +1,11 @@
+C:\work\Stack_Input\bin\Release\Stack_Input.exe
+C:\work\Stack_Input\bin\Release\Stack_Input.pdb
+C:\work\Stack_Input\obj\x86\Release\Stack_Input.exe
+C:\work\Stack_Input\obj\x86\Release\Stack_Input.pdb
+C:\work\Stacks\obj\x86\Release\Stack_Input.exe
+C:\work\Stacks\obj\x86\Release\Stack_Input.pdb
+C:\work\Stacks\Stacks\bin\Release\Stack_Input.exe
+C:\work\Stacks\Stacks\bin\Release\Stack_Input.pdb
+C:\work\Stacks\Stacks\obj\x86\Release\Stack_Input.csprojResolveAssemblyReference.cache
+C:\work\Stacks\Stacks\obj\x86\Release\Stack_Input.exe
+C:\work\Stacks\Stacks\obj\x86\Release\Stack_Input.pdb

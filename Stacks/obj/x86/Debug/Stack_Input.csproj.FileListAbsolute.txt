@@ -1,0 +1,8 @@
+C:\work\Stack_Input\bin\Debug\Stack_Input.exe
+C:\work\Stack_Input\bin\Debug\Stack_Input.pdb
+C:\work\Stack_Input\obj\x86\Debug\Stack_Input.exe
+C:\work\Stack_Input\obj\x86\Debug\Stack_Input.pdb
+C:\work\Stacks\Stacks\obj\x86\Debug\Stack_Input.exe
+C:\work\Stacks\Stacks\obj\x86\Debug\Stack_Input.pdb
+C:\work\Stacks\Stacks\bin\Debug\Stack_Input.exe
+C:\work\Stacks\Stacks\bin\Debug\Stack_Input.pdb
